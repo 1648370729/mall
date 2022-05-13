@@ -1,0 +1,16 @@
+com\macro\mall\common\exception\Asserts.class
+com\macro\mall\common\domain\SwaggerProperties.class
+com\macro\mall\common\api\IErrorCode.class
+com\macro\mall\common\exception\ApiException.class
+com\macro\mall\common\service\impl\RedisServiceImpl.class
+com\macro\mall\common\domain\WebLog.class
+com\macro\mall\common\domain\SwaggerProperties$SwaggerPropertiesBuilder.class
+com\macro\mall\common\api\CommonPage.class
+com\macro\mall\common\service\RedisService.class
+com\macro\mall\common\exception\GlobalExceptionHandler.class
+com\macro\mall\common\util\RequestUtil.class
+com\macro\mall\common\config\BaseSwaggerConfig.class
+com\macro\mall\common\api\CommonResult.class
+com\macro\mall\common\api\ResultCode.class
+com\macro\mall\common\config\BaseRedisConfig.class
+com\macro\mall\common\log\WebLogAspect.class
